@@ -1,0 +1,9 @@
+Student: Ankan Mookherjee
+Advisor: Dr. Richard Zanibbi
+Document and Pattern Recognition Labs, Rochester Institute of Technology
+Handwritten Math Recognition, Pattern Recognition
+
+Feature Extractor for Hand Written Math Symbol of .inkml file using representative sample. 
+The system used Random Forest, Ada Boost & SVM algorithms to classify segment and parse the symbols to create layout tree. 
+
+Please Read the Report for detailed design overview and results obtained.
