@@ -1,6 +1,15 @@
 Pattern-Recognition-and-AI
 ==========================
-Tech: Python, Matplotlib
+Language: Python, Matplotlib
 
 Artificial Intelligence and Machine Learning and Pattern Recognition Projects.
-Rochester Institute of Technology, Document and Pattern Recognition Labs, Machine Learning Labs
+
+
+Student: Ankan Mookherjee
+
+Advisor: Dr. Richard Zanibbi
+
+Document and Pattern Recognition Labs, Rochester Institute of Technology
+
+Subject: Handwritten Math Recognition, Pattern Recognition
+
